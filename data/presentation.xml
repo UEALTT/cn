@@ -1,0 +1,396 @@
+<?xml version="1.0"?>
+<presentation title="Module11" width="1280.0000000" height="720.0000000" thmbWidth="78.0000000" thmbHeight="44.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2016" type="compound" hasExternalAudio="0" uid="{4BB48529-F052-45DB-A192-B1194946E505}">
+	<presenters/>
+	<references/>
+	<soundAssets/>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+	</graphicAssets>
+	<playlists/>
+	<narration/>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<currentTemplate id="SIMPLE_COURSE"/>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>true</showOutline>
+				<showPlayPause>false</showPlayPause>
+				<showRewind>false</showRewind>
+				<showVolumeControl>false</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>false</showSlideOnlyButton>
+				<progressBar>
+					<visible>false</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>false</visible>
+				<buttons>
+					<button type="attachments" visible="true"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>false</numberEntries>
+				<highlightViewedEntries>false</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>false</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>false</visible>
+				<tabsPanel>
+					<showOutline>false</showOutline>
+					<showNotes>true</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="" titleNormalized="" src="slide1.swf" size="385907" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Epidemiology of psychiatric illness 
+&amp; 
+Public health strategies 
+in mental health
+Dr Caitlin Notley | Senior Lecturer in Mental Health
+(With thanks to Professor Richard Holland for some slide content)</text>
+		</slide>
+		<slide index="1" title="Learning objectives" titleNormalized="learning objectives" src="slide2.swf" size="1561" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Learning objectives
+Describe the basic epidemiology of mental health conditions in the population
+
+Describe the risk factors for significant psychological distress and potential of different life events to provoke stress and psychological disorder 
+
+Plus:
+
+Discuss effective public health interventions, government targets and guidance in relation to mental illness and substance misuse</text>
+		</slide>
+		<slide index="2" title="Key Facts" titleNormalized="key facts" src="slide3.swf" size="1884" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Key Facts
+A recent index of 301 diseases found mental health problems to be one of the main causes of the overall disease burden worldwide.(They were shown to account for 21.2% of years lived with disability worldwide) (1).
+
+In 2015, common mental health problems (e.g. anxiety, depression and stress) and more serious mental health problems were the third most important cause of sick leave. In 2015, mental-health-related issues were found to lead to approximately 17.6 million days’ sick leave, or 12.7% of the total sick days taken in the UK (2)
+
+Substantial treatment gap: 75% untreated (3)
+
+Early death: 15-20 years premature mortality for those with severe mental illness</text>
+		</slide>
+		<slide index="3" title="The context: What is a Disability Adjusted Life Year (DALY)?" titleNormalized="the context: what is a disability adjusted life year (daly)?" src="slide4.swf" size="41666" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The context: What is a Disability Adjusted Life Year (DALY)?
+The Global Burden of Disease: England - PHE, 2015 (4)</text>
+		</slide>
+		<slide index="4" title="The Context: Leading causes of DALYs in 2013 and percentage change from 1990 to 2013 (Males)" titleNormalized="the context: leading causes of dalys in 2013 and percentage change from 1990 to 2013 (males)" src="slide5.swf" size="34134" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The Context: Leading causes of DALYs in 2013 and percentage change from 1990 to 2013 (Males)
+The Global Burden of Disease: England - PHE, 2015 (4)</text>
+		</slide>
+		<slide index="5" title="The Context: Leading causes of DALYs in 2013 and percentage change from 1990 to 2013 (Females)" titleNormalized="the context: leading causes of dalys in 2013 and percentage change from 1990 to 2013 (females)" src="slide6.swf" size="33295" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The Context: Leading causes of DALYs in 2013 and percentage change from 1990 to 2013 (Females)
+The Global Burden of Disease: England - PHE, 2015 (4)</text>
+		</slide>
+		<slide index="6" title="This Talk" titleNormalized="this talk" src="slide7.swf" size="1706" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>This Talk
+Can we define what “Mental ill health” refers to?
+How do we measure it?
+Aetiology – why do patients suffer from mental health problems?
+Focus on:
+Psychotic disorders
+Drug and Alcohol use
+Suicide
+Population level intervention: What can we do about it?</text>
+		</slide>
+		<slide index="7" title="Defining psychiatric illness" titleNormalized="defining psychiatric illness" src="slide8.swf" size="1644" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Defining psychiatric illness
+Diagnoses remain the most usual way of dividing and classifying symptoms into groups
+Diagnostic statistical manual of mental disorders V released in 2013 (DSM V)
+ICD classification
+Current version is ICD 11 (published in July 2018)
+Clinical judgement
+Anti-diagnosis movement in psychiatry</text>
+		</slide>
+		<slide index="8" title="Re-defining psychiatric diagnosis?" titleNormalized="re-defining psychiatric diagnosis?" src="slide9.swf" size="316897" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Re-defining psychiatric diagnosis?</text>
+		</slide>
+		<slide index="9" title="Re-defining psychiatric diagnosis?" titleNormalized="re-defining psychiatric diagnosis?" src="slide10.swf" size="1998" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Re-defining psychiatric diagnosis?
+30% population will experience mental health problem each year
+23% population will visit their GP
+10% will be diagnosed by GP with mental health problem
+10% will be diagnosed by GP with mental health problem
+0.6% will become psychiatric inpatient
+From: Sainsbury Centre for Mental Health</text>
+		</slide>
+		<slide index="10" title="Measuring psychiatric morbidity" titleNormalized="measuring psychiatric morbidity" src="slide11.swf" size="1226" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Measuring psychiatric morbidity
+How would you do it?
+What do we know?</text>
+		</slide>
+		<slide index="11" title="Adult Psychiatric Morbidity Survey: Survey of Mental Health and Wellbeing, England, 2014 (5)" titleNormalized="adult psychiatric morbidity survey: survey of mental health and wellbeing, england, 2014 (5)" src="slide12.swf" size="9457" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Adult Psychiatric Morbidity Survey: Survey of Mental Health and Wellbeing, England, 2014 (5)
+Results of a household survey 
+Methods:
+NatCen stratified, multi-stage probability sample of households - population survey
+Two stage assessment:
+Structured interviews
+Clinical interview schedule
+Warwick Edinburgh Mental Well-Being Scale (WEMWBS) (Tennant et al. 2007).
+AUDIT
+Sub-sample took part in semi-structured clinical interview
+SCAN for psychosis [Schedules for clinical assessment in neuropsychiatry]
+Autistic spectrum disorder [structured clinical interview for DSM IV]
+</text>
+		</slide>
+		<slide index="12" title="Common mental disorders (CMD)" titleNormalized="common mental disorders (cmd)" src="slide13.swf" size="67056" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Common mental disorders (CMD)
+CIS = clinical interview schedule – a measure of “neurotic” symptoms. Score 12-17 = ‘significant symptoms’. Score 18+ = ‘severe’ symptoms – likely to require treatment. 
+Adult Psychiatric morbidity: NHS information centre
+</text>
+		</slide>
+	</slides>
+</presentation>
